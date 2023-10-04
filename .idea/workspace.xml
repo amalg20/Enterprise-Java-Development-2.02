@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RunManager" selected="JUnit.WizardTest">
+    <configuration name="JavaKeywordsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labw2d1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab2.w2.exercise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lab2.w2.exercise2" />
+      <option name="MAIN_CLASS_NAME" value="com.lab2.w2.exercise2.JavaKeywordsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OddNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labw2d1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab2.w2.exercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lab2.w2.exercise1" />
+      <option name="MAIN_CLASS_NAME" value="com.lab2.w2.exercise1.OddNumbersTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labw2d1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab2.w2.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lab2.w2.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.lab2.w2.exercise3.PlayerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WarriorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labw2d1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab2.w2.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lab2.w2.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.lab2.w2.exercise3.WarriorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WizardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Labw2d1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lab2.w2.exercise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lab2.w2.exercise3" />
+      <option name="MAIN_CLASS_NAME" value="com.lab2.w2.exercise3.WizardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WizardTest" />
+        <item itemvalue="JUnit.WarriorTest" />
+        <item itemvalue="JUnit.PlayerTest" />
+        <item itemvalue="JUnit.JavaKeywordsTest" />
+        <item itemvalue="JUnit.OddNumbersTest" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
